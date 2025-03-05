@@ -6,6 +6,7 @@ pyarrow>=6.0.0
 tqdm>=4.60.0
 jupyter>=1.0.0
 ipywidgets>=7.6.0
+scikit-learn
 # Optional RAPIDS dependencies for GPU acceleration
 # cudf-cu11>=22.04.0
 # cuml-cu11>=22.04.0
