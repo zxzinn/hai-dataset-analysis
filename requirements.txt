@@ -1,14 +1,10 @@
-pandas>=1.3.0
-numpy>=1.20.0
-matplotlib>=3.4.0
+numpy>=1.19.0
+pandas>=1.1.0
+matplotlib>=3.3.0
 seaborn>=0.11.0
-pyarrow>=6.0.0
-tqdm>=4.60.0
+scikit-learn>=0.23.0
+tensorflow>=2.4.0
+pyarrow>=3.0.0
+joblib>=1.0.0
 jupyter>=1.0.0
-ipywidgets>=7.6.0
-scikit-learn
-# Optional RAPIDS dependencies for GPU acceleration
-# cudf-cu11>=22.04.0
-# cuml-cu11>=22.04.0
-# cuxfilter-cu11>=22.04.0
-# cupy-cu11>=10.0.0
+ipykernel>=6.0.0
