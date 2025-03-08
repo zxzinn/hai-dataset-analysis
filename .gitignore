@@ -1,3 +1,5 @@
 /.venv/
 .idea
 parquet_data
+hai-security-dataset
+models
