@@ -3,3 +3,5 @@
 parquet_data
 hai-security-dataset
 models
+*networkx
+*.ipynb_checkpoints
